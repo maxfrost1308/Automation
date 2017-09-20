@@ -1,6 +1,7 @@
 %{
 	#include<stdio.h>
 	#define MAX_STATES 100 // increase the no to increase the no of states limit
+	// More comments
 	void yyerror(char *);
 	#include "fa.h"
 	#include<string.h>
